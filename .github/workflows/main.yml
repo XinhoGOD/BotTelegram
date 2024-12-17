@@ -27,5 +27,5 @@ jobs:
         run: |
           python bot.py
         env:
-          TELEGRAM_TOKEN: "7448542578:AAFTd9VT-CuMme0SAa1xhX4D08cr8pepywQ
+          TELEGRAM_TOKEN: "7448542578:AAFTd9VT-CuMme0SAa1xhX4D08cr8pepywQ"
           CHAT_ID: "-1002232864049"
