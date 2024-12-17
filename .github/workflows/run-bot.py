@@ -2,7 +2,7 @@ name: Run Telegram Bot
 
 on: 
   schedule_
-    -cron:'09 * * *'
+    -cron:'0 21 * * *'
   workflow_dispatch:
 jobs:
   run-bot
